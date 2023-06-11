@@ -150,17 +150,3 @@ if __name__ == "__main__":
 	plt.legend()
 	plt.show()
 	plt.savefig("RandomGaussPy.pdf")
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
